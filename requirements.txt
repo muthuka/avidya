@@ -1,1 +1,15 @@
 numpy
+scikit-learn
+torch
+transformers
+pyautogen[retrievechat]
+streamlit
+streamlit-pills
+llama-index
+llama-hub
+langchain
+pypdf
+gradio
+PyMuPDF
+deeplake
+openai

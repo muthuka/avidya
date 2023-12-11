@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.streamlit
+.venv
+__pycache__
+cache
+.github
+pyvenv.cfg
